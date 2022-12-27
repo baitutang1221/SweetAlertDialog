@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\layout_sample_activity.xml.flat",
+        "source": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\src\\main\\res\\layout\\sample_activity.xml"
+    },
+    {
+        "merged": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_img.jpg.flat",
+        "source": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\src\\main\\res\\drawable-hdpi\\custom_img.jpg"
+    },
+    {
+        "merged": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_big.png.flat",
+        "source": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\src\\main\\res\\drawable-hdpi\\logo_big.png"
+    },
+    {
+        "merged": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher2.jpg.flat",
+        "source": "D:\\code\\AndroidProject\\sweet-alert-dialog\\sweet-alert-dialog-master\\sweet-alert-dialog-master\\sample\\src\\main\\res\\drawable-hdpi\\ic_launcher2.jpg"
+    }
+]

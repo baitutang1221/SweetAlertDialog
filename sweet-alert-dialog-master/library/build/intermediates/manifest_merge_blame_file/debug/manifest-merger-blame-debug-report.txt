@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cn.pedant.SweetAlert"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+7-->D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:1-68
+8        android:minSdkVersion="16"
+8-->D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:11-36
+9        android:targetSdkVersion="17" />
+9-->D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:37-66
+10
+11    <application />
+11-->D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:8:1-16
+12
+13</manifest>

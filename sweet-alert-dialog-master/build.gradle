@@ -1,0 +1,21 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.0'
+    }
+}
+
+ext {
+    compileSdkVersion = 25
+    buildToolsVersion = "25.0.1"
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

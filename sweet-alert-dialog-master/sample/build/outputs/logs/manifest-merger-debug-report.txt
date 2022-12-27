@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:library] D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:21.0.0] C:\Users\User\.gradle\caches\transforms-3\28e65578af63a3fb6d0efaffaf830a74\transformed\appcompat-v7-21.0.0\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\User\.gradle\caches\transforms-3\f7662a1295b80ab222ec6b2519365a22\transformed\support-v4-21.0.0\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-72
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-72
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-72
+MERGED from [:library] D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:21.0.0] C:\Users\User\.gradle\caches\transforms-3\28e65578af63a3fb6d0efaffaf830a74\transformed\appcompat-v7-21.0.0\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.0] C:\Users\User\.gradle\caches\transforms-3\28e65578af63a3fb6d0efaffaf830a74\transformed\appcompat-v7-21.0.0\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\User\.gradle\caches\transforms-3\f7662a1295b80ab222ec6b2519365a22\transformed\support-v4-21.0.0\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\User\.gradle\caches\transforms-3\f7662a1295b80ab222ec6b2519365a22\transformed\support-v4-21.0.0\AndroidManifest.xml:15:5-42
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-72
+INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-72
+	android:targetSdkVersion
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:41-70
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+application
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:8:5-20:19
+MERGED from [:library] D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:21.0.0] C:\Users\User\.gradle\caches\transforms-3\28e65578af63a3fb6d0efaffaf830a74\transformed\appcompat-v7-21.0.0\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.0] C:\Users\User\.gradle\caches\transforms-3\28e65578af63a3fb6d0efaffaf830a74\transformed\appcompat-v7-21.0.0\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\User\.gradle\caches\transforms-3\f7662a1295b80ab222ec6b2519365a22\transformed\support-v4-21.0.0\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.0] C:\Users\User\.gradle\caches\transforms-3\f7662a1295b80ab222ec6b2519365a22\transformed\support-v4-21.0.0\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:10:9-46
+		REJECTED from [com.pnikosis:materialish-progress:1.0] C:\Users\User\.gradle\caches\transforms-3\659a2aef37df77c3af5d2fe3ebb509fc\transformed\materialish-progress-1.0\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:11:9-56
+	tools:replace
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:12:9-37
+activity#cn.pedant.SweetAlert.sample.SampleActivity
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:13:9-19:20
+	android:label
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:13:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from D:\code\AndroidProject\sweet-alert-dialog\sweet-alert-dialog-master\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:17:27-74
